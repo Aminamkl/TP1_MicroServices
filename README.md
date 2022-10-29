@@ -31,6 +31,6 @@
 ![img.png](img.png)
 + Billing-service
   ![img_14.png](img_14.png)
-  ![img_15.png](img_15.png)
+ 
 + Customers-service
-
+ ![img_15.png](img_15.png)
